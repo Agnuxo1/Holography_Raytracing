@@ -1,0 +1,18 @@
+{
+  "project": "Holography Raytracing",
+  "author": "Francisco Angulo de Lafuente",
+  "orcid": "https://orcid.org/0009-0001-1634-7063",
+  "recorded_on": "2026-11-04",
+  "canonical_url": "https://github.com/Agnuxo1/Holography_Raytracing",
+  "original_source_year": 2024,
+  "baseline_commit": "b1a1fcab326da16f528bd8399555269f7c90cc27",
+  "license": "Apache-2.0",
+  "license_scope": "Original repository material as covered by the existing LICENSE. Third-party references, software, linked media, and external assets retain their own terms.",
+  "source_files": [
+    "Hologram-LLM-DEMO1.py",
+    "Hologram-LLM-DEMO2.py"
+  ],
+  "preserved_drafts": [],
+  "reuse_note": "The original repository source is covered by the existing Apache License 2.0. Preserve applicable notices and cite the project with credit to Francisco Angulo de Lafuente (ORCID: 0009-0001-1634-7063).",
+  "attribution_scope_note": "Attribution covers original files on the default branch. The separate Jules refactoring branch retains its existing commit provenance and is unchanged."
+}

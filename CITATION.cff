@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata below.
+type: software
+title: Holography Raytracing
+authors:
+- given-names: Francisco
+  family-names: Angulo de Lafuente
+  orcid: https://orcid.org/0009-0001-1634-7063
+repository-code: https://github.com/Agnuxo1/Holography_Raytracing
+url: https://github.com/Agnuxo1/Holography_Raytracing
+license: Apache-2.0

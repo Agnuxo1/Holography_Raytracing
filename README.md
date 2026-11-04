@@ -1,6 +1,11 @@
 Acceleration of Language Models Through Simulated Holography and Raytracing
 
 Francisco Angulo de Lafuente
+
+ORCID: [0009-0001-1634-7063](https://orcid.org/0009-0001-1634-7063) | Original work recorded in Git: 2024 | Attribution recorded 2026-11-04.
+
+**Citation and reuse.** See [CITATION.cff](CITATION.cff). The original repository source is covered by the existing Apache License 2.0. Preserve applicable notices and cite the project with credit to Francisco Angulo de Lafuente (ORCID: 0009-0001-1634-7063).
+
 https://github.com/Agnuxo1
 https://huggingface.co/Agnuxo
 https://www.researchgate.net/profile/Francisco-Angulo-Lafuente-3
