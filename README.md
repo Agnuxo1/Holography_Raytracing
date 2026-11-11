@@ -335,3 +335,8 @@ Photonic Integrated Circuits: Implementing the holographic structure and raytrac
 3D Printing of Holographic Structures: Investigating the feasibility of 3D printing holographic structures could provide a cost-effective and flexible way to fabricate the physical components of the system.
 
 By addressing these challenges and exploring the potential enhancements outlined in this appendix, the Holographic LLM framework could pave the way for a new generation of highly efficient and scalable language models, capable of tackling complex NLP tasks with unprecedented speed and accuracy.
+
+
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The hologram demonstrations use CuPy and Numba to explore propagation and ray-tracing-inspired computation on GPUs. Their practical contribution is reusable numerical code for investigating how optical-style representations might encode and process information before building physical hardware. The <a href="Hologram-LLM-DEMO1.py">first demonstration</a> exposes the simplified model, making it easier to test assumptions without treating the proposed architecture as a validated language-model speedup.</sub>
+<!-- impact-note:end -->
